@@ -1,0 +1,6 @@
+{
+  "name": "AI Skin Analyzer",
+  "description": "Analyze skin concerns, receive wellness recommendations, and get a personalized skincare routine powered by AI.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
